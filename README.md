@@ -47,7 +47,7 @@ send a job request to scrapyd. spider is assigned `spider name`
 
 ### Initial screen
 
-![first page](.\readme\image\first page.png)
+![first page](https://github.com/copyNdpaste/scrapy-with-django/blob/master/readme/image/after%20crawling.png)
 
 ### After crawling
 
