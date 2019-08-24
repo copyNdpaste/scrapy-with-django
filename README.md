@@ -38,7 +38,7 @@ send a job request to scrapyd. spider is assigned `spider name`
 
 ### Initial screen
 
-![1566569741353](C:\Users\julsn\AppData\Roaming\Typora\typora-user-images\1566569741353.png)
+![first page](C:\project\scrapy-with-django\readme\image\first page.png)
 
 ### How to use
 
@@ -51,7 +51,7 @@ send a job request to scrapyd. spider is assigned `spider name`
 
 ### After crawling
 
-![1566570351664](C:\Users\julsn\AppData\Roaming\Typora\typora-user-images\1566570351664.png)
+![after crawling](C:\project\scrapy-with-django\readme\image\after crawling.png)
 
 
 
