@@ -36,10 +36,6 @@ send a job request to scrapyd. spider is assigned `spider name`
 
 `curl http://localhost:6800/schedule.json -d project=default -d spider=crawler`
 
-### Initial screen
-
-![first page](C:\project\scrapy-with-django\readme\image\first page.png)
-
 ### How to use
 
 1. Select option `바란다 게시판` or `자유 게시판`.
@@ -49,9 +45,13 @@ send a job request to scrapyd. spider is assigned `spider name`
 5. If you want to Check all data click the emerald button `전체보기`
 6. If you want to visit original page, click the title that is hyper linked.
 
+### Initial screen
+
+![first page](.\readme\image\first page.png)
+
 ### After crawling
 
-![after crawling](C:\project\scrapy-with-django\readme\image\after crawling.png)
+![after crawling](.\readme\image\after crawling.png)
 
 
 
