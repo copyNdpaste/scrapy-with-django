@@ -15,8 +15,9 @@ class CrawlerSpider(CrawlSpider):
         self.domain = kwargs.get('domain')
         self.allowed_domains = [self.domain]
         self.category_dict = {
-            '메이플스토리 인벤 자유게시판': 1,
-            '메이플스토리 인벤 메이플에 바란다 게시판': 2
+            '메이플스토리 인벤 메이플에 바란다 게시판': 1,
+            '메이플스토리 인벤 자유게시판': 2,
+
         }
 
     def start_requests(self):
