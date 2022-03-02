@@ -26,7 +26,7 @@ pytz==2019.2
 pywin32==224
 queuelib==1.5.0
 requests==2.22.0
-Scrapy==1.7.3
+Scrapy==1.8.2
 scrapyd==1.2.1
 service-identity==18.1.0
 six==1.12.0
